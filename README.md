@@ -1,6 +1,8 @@
-This project was built using ReactJS
-<img src="https://i.ibb.co/KbL5Vwv/quizApp.png" alt="quizApp" />
 
+<img src="https://i.ibb.co/sb6gsHY/quizApp.png" alt="quizApp" />
+
+
+<h2>This project was built using ReactJS</h2>
 ## Available Scripts
 
 In the project directory, you can run:
