@@ -1,5 +1,5 @@
 This project was built using ReactJS
-<img src="https://cyberncode.com/wp-content/uploads/2020/08/Privacy-Policy-and-Disclaimer-980x735.jpg" alt="alt text" width="500px" height="500px">
+<img src="https://ibb.co/KbL5Vwv" alt="alt text" width="500px" height="500px">
 
 ## Available Scripts
 
