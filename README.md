@@ -1,5 +1,5 @@
 This project was built using ReactJS
-<img src=""https://i.ibb.co/KbL5Vwv/quizApp.png" alt="quizApp" width="672px" height="600px">
+<img src="https://i.ibb.co/KbL5Vwv/quizApp.png" alt="quizApp" width="672px" height="600px">
 
 ## Available Scripts
 
